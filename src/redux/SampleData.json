@@ -1,0 +1,207 @@
+{
+  "users": [],
+  "articles": [
+    {
+      "id": 0,
+      "title": "Both Democrats, GOP are now on board for a second wave of PPP loans - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/both-democrats-gop-are-now-on-board-for-a-second-wave-of-ppp-loans-175322929.html",
+      "keywords": ["DEMOCRATS", "GOP", "LOANS"],
+      "rating": {
+        "current": 10,
+        "readable": 10,
+        "objective": 10,
+        "cited": 10,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 1,
+      "title": "28 states issue warnings about residents receiving unsolicited seed packets from China - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/27-states-issue-warnings-about-residents-receiving-unsolicited-seed-packets-n1235094",
+      "keywords": ["CHINA", "SEEDS", "AGRICULTURE"],
+      "rating": {
+        "current": 10,
+        "readable": 10,
+        "objective": 10,
+        "cited": 10,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 2,
+      "title": "Miami Marlins coronavirus outbreak grows with four more players testing positive - CNN",
+      "description": "The remainder of the shortened 2020 Major League Baseball season saw itself further imperiled Tuesday as ESPN and The Athletic reported that four more Miami Marlins players tested positive for the coronavirus.",
+      "url": "https://www.cnn.com/2020/07/28/us/mlb-miami-marlins-coronavirus-spt-trnd/index.html",
+      "keywords": ["MARLINS", "CORNAVIRUS", "COVID-19"],
+      "rating": {
+        "current": 10,
+        "readable": 10,
+        "objective": 10,
+        "cited": 10,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 3,
+      "title": "Iran threatens US by targeting replica aircraft carrier in Strait of Hormuz - The Guardian",
+      "description": "Drill designed to threaten US amid increasing tensions between Tehran and Washington",
+      "url": "https://amp.theguardian.comworld/2020/jul/28/iran-threatens-us-by-targeting-replica-aircraft-carrier-in-strait-of-hormuz",
+      "keywords": ["IRAN", "AIRCRAFT", "HORMUZ", "TERHAN"],
+      "rating": {
+        "current": 10,
+        "readable": 10,
+        "objective": 10,
+        "cited": 10,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 4,
+      "title": "German And U.K. Officials Warn Of A Possible New COVID-19 Wave In Europe - NPR",
+      "description": "\"I'm afraid you are starting to see, in some places, the signs of a second wave of the pandemic\" in Europe, says British Prime Minister Boris Johnson.",
+      "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/28/896135038/german-and-u-k-officials-warn-of-a-possible-new-covid-19-wave-in-europe",
+      "keywords": ["GERMAN", "U.K.", "COVID-19", "CORONAVIRUS", "EUROPE"],
+      "rating": {
+        "current": 10,
+        "readable": 10,
+        "objective": 10,
+        "cited": 10,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 5,
+      "title": "What's In Joe Biden's Plan On Systemic Racism, Racial Equity? - NPR",
+      "url": "https://www.npr.org/2020/07/28/896132054/biden-details-proposal-to-advance-racial-equity-in-america",
+      "keywords": [
+        "JOE",
+        "BIDEN",
+        "SYSTEMIC",
+        "RACIAL",
+        "EQUITY",
+        "DEMOCRATS",
+        "ELECTION"
+      ],
+      "rating": {
+        "current": 10,
+        "readable": 10,
+        "objective": 10,
+        "cited": 10,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 6,
+      "title": "Kerry Washington on Bringing Marginalized Stories to the Forefront (Exclusive)",
+      "url": "https://www.etonline.com/kerry-washington-on-bringing-marginalized-stories-to-the-forefront-exclusive-150537",
+      "keywords": [
+        "KERRY",
+        "WASHINGTON",
+        "NOMINATION",
+        "FILM",
+        "LGBTQ",
+        "ROCK",
+        "STARS",
+        "NETFLIX"
+      ],
+      "rating": {
+        "current": 8,
+        "readable": 9,
+        "objective": 7,
+        "cited": 6,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 7,
+      "title": "Oprah Winfrey gives up cover of O magazine for 1st time to Breonna Taylor",
+      "url": "https://abcnews.go.com/GMA/Culture/oprah-winfrey-cover-magazine-1st-time-breonna-taylor/story?id=72075046&cid=clicksource_4380645_17_hero_post_bsq_hed",
+      "keywords": [
+        "BREONNA",
+        "RACISM",
+        "PUBLICATION",
+        "SHOTS",
+        "SILENCE",
+        "OMAGAZINE",
+        "HONOR",
+        "TRAGEDY"
+      ],
+      "rating": {
+        "current": 8,
+        "readable": 9,
+        "objective": 7,
+        "cited": 6,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pennsylvania uses 'weighted lottery' to distribute lifesaving remdesivir in favor of low-income patients",
+      "url": "https://www.foxnews.com/media/pa-hospitals-use-weighted-lottery-to-distribute-lifesaving-remdesivir-in-favor-of-low-income-patients",
+      "keywords": [
+        "CALIFORNIA",
+        "ETHICS",
+        "LIVER",
+        "DUNK",
+        "TANK",
+        "LIFE",
+        "SAVING",
+        "LOW",
+        "INCOME"
+      ],
+      "rating": {
+        "current": 8,
+        "readable": 7,
+        "objective": 6,
+        "cited": 8,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 9,
+      "title": "Donald Trump: US Treasury should get cut of TikTok deal’",
+      "url": "https://www.bbc.com/news/business-53633315",
+      "keywords": [
+        "TIKTOK",
+        "MICROSOFT",
+        "BAN",
+        "MAFIA",
+        "US-TREASURY",
+        "THEFT",
+        "TECH-COMPANY",
+        "BIZZARE-SITUATIONS",
+        "TAKEOVER"
+      ],
+      "rating": {
+        "current": 8,
+        "readable": 7,
+        "objective": 6,
+        "cited": 8,
+        "numRatings": 2
+      }
+    },
+    {
+      "id": 10,
+      "title": "Spain puzzles over ex-King Juan Carlos's whereabouts",
+      "url": "https://www.bbc.com/news/world-europe-53647170",
+      "keywords": [
+        "Juan-Calos",
+        "ANNOUNCEMENT",
+        "SPAIN",
+        "LETTER",
+        "INVESTIGATION",
+        "ABSOLUTE-RESPECT",
+        "DICTATOR",
+        "CRTICISIM",
+        "SAUDI-ARABIA"
+      ],
+      "rating": {
+        "current": 8,
+        "readable": 7,
+        "objective": 6,
+        "cited": 8,
+        "numRatings": 2
+      }
+    }
+  ]
+}

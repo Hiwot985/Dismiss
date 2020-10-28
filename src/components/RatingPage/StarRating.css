@@ -1,0 +1,9 @@
+.StarRating {
+    display: flex;
+    min-height: 100vh;
+}
+
+input[type = "radio"]{
+    display: none;
+}
+
